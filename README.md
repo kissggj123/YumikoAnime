@@ -9,7 +9,6 @@ airAnime链接：https://github.com/txperl/airAnime 感谢原作者
 ## 代码文件说明
 
 ```
-.
 ├── .Yumiko Json数据更新
     ├── .bin - 生成的exe文件目录
     ├── CSkin.dll - 皮肤控件
