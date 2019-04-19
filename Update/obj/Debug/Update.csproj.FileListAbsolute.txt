@@ -1,0 +1,11 @@
+E:\临时文件\MOS\YumikoAnime\yumikoanimeupdate\Yumiko Json数据更新\Update\bin\Debug\Update.exe.config
+E:\临时文件\MOS\YumikoAnime\yumikoanimeupdate\Yumiko Json数据更新\Update\bin\Debug\Update.exe
+E:\临时文件\MOS\YumikoAnime\yumikoanimeupdate\Yumiko Json数据更新\Update\bin\Debug\Update.pdb
+E:\临时文件\MOS\YumikoAnime\yumikoanimeupdate\Yumiko Json数据更新\Update\bin\Debug\CSkin.dll
+E:\临时文件\MOS\YumikoAnime\yumikoanimeupdate\Yumiko Json数据更新\Update\obj\Debug\Update.Properties.Resources.resources
+E:\临时文件\MOS\YumikoAnime\yumikoanimeupdate\Yumiko Json数据更新\Update\obj\Debug\Update.updatemain.resources
+E:\临时文件\MOS\YumikoAnime\yumikoanimeupdate\Yumiko Json数据更新\Update\obj\Debug\Update.csproj.GenerateResource.cache
+E:\临时文件\MOS\YumikoAnime\yumikoanimeupdate\Yumiko Json数据更新\Update\obj\Debug\Update.csproj.CoreCompileInputs.cache
+E:\临时文件\MOS\YumikoAnime\yumikoanimeupdate\Yumiko Json数据更新\Update\obj\Debug\Update.csproj.CopyComplete
+E:\临时文件\MOS\YumikoAnime\yumikoanimeupdate\Yumiko Json数据更新\Update\obj\Debug\Update.exe
+E:\临时文件\MOS\YumikoAnime\yumikoanimeupdate\Yumiko Json数据更新\Update\obj\Debug\Update.pdb

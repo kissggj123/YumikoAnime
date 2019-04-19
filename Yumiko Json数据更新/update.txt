@@ -1,0 +1,17 @@
+﻿http://www.menglolita.com/data/anime1.php
+http://www.menglolita.com/data/agefans.php
+http://www.menglolita.com/data/calibur.php
+https://api.tls.moe/?app=bangumi&key=calendar
+Anime1
+运行 ./data/anime1.php 后将数据粘贴至 anime1.json 即可。
+
+Calibur
+修改抓取范围并运行 ./data/calibur.php 后将数据添加至 calibur.json 即可。
+
+AGE动漫
+修改抓取范围并运行 ./data/agefans.php 后将数据添加至 agefans.json 即可。
+
+新番
+新番数据基于 bangumi.tv 新番数据。
+
+您也可以访问 https://api.tls.moe/?app=bangumi&key=calendar 来获取数据，然后将数据粘贴至 newbgms.json 即可。
